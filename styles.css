@@ -1,3 +1,15 @@
-body{
-    
+.part-2 .display-4 {
+        font-size: 20px;
+        color: black;
+    }
+
+.part-2 .subhead {
+    font-size: 12px;
+    color: black;
 }
+
+.part-2 .btn {
+    font-size: 10px;
+    padding: 18px;
+}
+
