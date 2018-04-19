@@ -1,3 +1,22 @@
 body{
     
 }
+.part-8 .phone {
+    text-align: center;
+    font-family: Slabo;
+   
+}
+.part-8 .email {
+    text-align: center;
+    color: red;
+    font-family: Merriweathe;
+}
+.part-8 .content {
+    text-align: center;
+    font-family: Merriweathe;
+    font-size: 14.5px;
+}
+
+.part-8 .center {
+    text-align: center;
+}
