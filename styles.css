@@ -1,3 +1,18 @@
+.part-2 .display-4 {
+        font-size: 20px;
+        color: black;
+    }
+
+.part-2 .subhead {
+    font-size: 12px;
+    color: black;
+}
+
+.part-2 .btn {
+    font-size: 10px;
+    padding: 18px;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
 body{
     
@@ -22,4 +37,9 @@ body{
 }
 .fixright{
     right: 0;
+
+}
+
+.zide{
+    z-index: 11;
 }
