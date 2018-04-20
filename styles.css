@@ -1,3 +1,47 @@
 body{
     
 }
+
+.part-5 img {
+    width: 100%;
+    margin: 0px;
+}
+
+.part-5 h3 {
+    color: GoldenRod;
+     text-align: center;
+     font-size: 1rem;
+     margin-bottom: 2px;
+}
+
+.part-5 h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 3rem;
+    margin-top: 2px;
+}
+
+.part-5 .quad {
+    position: relative;
+}
+
+.part-5 .caption {
+    position: absolute;
+     bottom: 50px;
+    left: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    color: white;
+    font-family: 'Source Sans Pro';
+}
+
+.part-5 h2 {
+    font-size: .8rem;
+    text-transform: uppercase;
+}
+
+.part-5 p {
+    font-size: 1.2rem;
+}
+    
+
