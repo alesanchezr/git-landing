@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
 .part-4 div {
              text-align: center; border:0; background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
              height: 1000px; background-position: center left 70%; transform: translate; 
@@ -13,7 +14,7 @@
              height: 500px;
              
 }
-=======
+
 
 
 .part-3 .services {
@@ -63,7 +64,7 @@
 }
 
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+
 body{
     
 }
@@ -138,7 +139,7 @@ body{
 
 .part-1 .imgD{
     width: 100%;
-    hight: 400px;
+    height: 400px;
     background-size: cover;
     background-position: center center ;
 }
@@ -156,5 +157,8 @@ body{
 .zide{
     z-index: 11;
 }
+<<<<<<< HEAD
+=======
 
 >>>>>>> f45d8f21726928c5924c399e7f606d4661acf7aa
+>>>>>>> daed5abc23eec39321dc94dca9b7de4ee51b4ae5
