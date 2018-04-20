@@ -1,7 +1,49 @@
+
+
+.part-3 .services {
+    text-align: center;
+    color: yellowGreen;
+}
+
+.part-3 .lead {
+    text-align: center;
+    color: White;
+}
+
+.part-3 .jumbotron {
+    background-color: blue;
+}
+
+.part-3 .iconz {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 0;
+    border-radius: 25px;
+}
+
+.part-2 .display-4 {
+        font-size: 20px;
+        color: black;
+    }
+
+.part-2 .subhead {
+    font-size: 12px;
+    color: black;
+}
+
+.part-2 .btn {
+    font-size: 10px;
+    padding: 18px;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
 body{
     
 }
 
+<<<<<<< HEAD
 .part-5 img {
     width: 100%;
     margin: 0px;
@@ -44,4 +86,31 @@ body{
     font-size: 1.2rem;
 }
     
+=======
+.part-1{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.part-1 .imgD{
+    width: 100%;
+    hight: 400px;
+    background-size: cover;
+    background-position: center center ;
+}
+.part-1 .backgroundimg{
+    background-image: url(https://c.pxhere.com/photos/a0/97/yellow_background_pencil_designer_work-149186.jpg!d);
+}
+.part-1 .btn{
+    font-size: 7px;
+}
+.fixright{
+    right: 0;
+
+}
+
+.zide{
+    z-index: 11;
+}
+>>>>>>> e2fa24668d682427cfd4f45c0db73a850bf0efb7
 
