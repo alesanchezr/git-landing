@@ -52,7 +52,6 @@ body{
     
 }
 
-<<<<<<< HEAD
 .part-5 img {
     width: 100%;
     margin: 0px;
@@ -95,7 +94,6 @@ body{
     font-size: 1.2rem;
 }
     
-=======
 .part-1{
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
@@ -121,5 +119,4 @@ body{
 .zide{
     z-index: 11;
 }
->>>>>>> e2fa24668d682427cfd4f45c0db73a850bf0efb7
 
