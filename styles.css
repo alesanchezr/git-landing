@@ -1,3 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+.sideBar {
+    background-color: rgb(28,128,159);
+    color: white;
+    width: 300px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100vh;
+}
+    
+.sideBar .header {
+    background-color: #1F7997;
+    text: white;
+    padding: 15px 0 15px 10px;
+    font-weight: bold;
+}
+
+.sideBar .body {
+    padding-left: 10px;
+    
+}
+
+.sideBar a {
+    color: white;
+    padding: 15px 0 20px 10px;
+    font-weight: bold;
+}
 
 .part-7 .container{
     max-width: 500px;
@@ -56,7 +84,6 @@
 }
 
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
 .part-4 div {
              text-align: center; border:0; background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
              height: 1000px; background-position: center left 70%; transform: translate; 
@@ -122,8 +149,10 @@
 
 
 
-body{
-    
+.btn.btn-outline-dark {
+    float: right;
+    margin-right: 15px;
+    margin-top: -8px;
 }
 
 .part-5 img {
