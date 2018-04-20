@@ -5,7 +5,6 @@
              height: 1000px; background-position: center left 70%; transform: translate; 
 }
     
-
 .card-text { font-size: 50px; font-weight: bold;
              padding-top: 400px; font-family: 'Fira Sans', sans-serif; 
 }
@@ -14,8 +13,6 @@
              height: 500px;
              
 }
-
-
 
 .part-3 .services {
     text-align: center;
@@ -68,7 +65,7 @@
 body{
     
 }
-<<<<<<< HEAD
+
 .part-8 .phone {
     text-align: center;
     font-family: Slabo;
@@ -88,7 +85,6 @@ body{
 .part-8 .center {
     text-align: center;
 }
-=======
 
 .part-5 img {
     width: 100%;
@@ -157,8 +153,4 @@ body{
 .zide{
     z-index: 11;
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> f45d8f21726928c5924c399e7f606d4661acf7aa
->>>>>>> daed5abc23eec39321dc94dca9b7de4ee51b4ae5
