@@ -11,7 +11,7 @@
 }
 
 .part-3 .jumbotron {
-    background-color: blue;
+    background-color: rgb(28,128,159);
 }
 
 .part-3 .iconz {
@@ -20,6 +20,15 @@
     width: 50px;
     border: 0;
     border-radius: 25px;
+}
+
+.part-3 .under-button {
+    line-height: 0.25;
+    color: white;
+}
+
+.part-3 .small-text {
+    font-size: 10px;
 }
 
 .part-2 .display-4 {
