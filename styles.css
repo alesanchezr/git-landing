@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+.part-4 div {
+             text-align: center; border:0; background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+             height: 1000px; background-position: center left 70%; transform: translate; 
+}
+    
+
+.card-text { font-size: 50px; font-weight: bold;
+             padding-top: 400px; font-family: 'Fira Sans', sans-serif; 
+}
+
+.card-img { 
+             height: 500px;
+             
+}
+=======
 
 
 .part-3 .services {
@@ -73,7 +89,6 @@ body{
 }
 =======
 
-<<<<<<< HEAD
 .part-5 img {
     width: 100%;
     margin: 0px;
@@ -116,7 +131,6 @@ body{
     font-size: 1.2rem;
 }
     
-=======
 .part-1{
     text-align: center;
     font-family: 'Roboto Condensed', sans-serif;
@@ -142,6 +156,5 @@ body{
 .zide{
     z-index: 11;
 }
->>>>>>> e2fa24668d682427cfd4f45c0db73a850bf0efb7
 
 >>>>>>> f45d8f21726928c5924c399e7f606d4661acf7aa
