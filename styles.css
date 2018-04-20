@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .part-4 div {
              text-align: center; border:0; background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
              height: 1000px; background-position: center left 70%; transform: translate; 
@@ -12,3 +13,130 @@
              height: 500px;
              
 }
+=======
+
+
+.part-3 .services {
+    text-align: center;
+    color: yellowGreen;
+}
+
+.part-3 .lead {
+    text-align: center;
+    color: White;
+}
+
+.part-3 .jumbotron {
+    background-color: rgb(28,128,159);
+}
+
+.part-3 .iconz {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 0;
+    border-radius: 25px;
+}
+
+.part-3 .under-button {
+    line-height: 0.25;
+    color: white;
+}
+
+.part-3 .small-text {
+    font-size: 10px;
+}
+
+.part-2 .display-4 {
+        font-size: 20px;
+        color: black;
+    }
+
+.part-2 .subhead {
+    font-size: 12px;
+    color: black;
+}
+
+.part-2 .btn {
+    font-size: 10px;
+    padding: 18px;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700');
+body{
+    
+}
+
+<<<<<<< HEAD
+.part-5 img {
+    width: 100%;
+    margin: 0px;
+}
+
+.part-5 h3 {
+    color: GoldenRod;
+     text-align: center;
+     font-size: 1rem;
+     margin-bottom: 2px;
+}
+
+.part-5 h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 3rem;
+    margin-top: 2px;
+}
+
+.part-5 .quad {
+    position: relative;
+}
+
+.part-5 .caption {
+    position: absolute;
+     bottom: 50px;
+    left: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    color: white;
+    font-family: 'Source Sans Pro';
+}
+
+.part-5 h2 {
+    font-size: .8rem;
+    text-transform: uppercase;
+}
+
+.part-5 p {
+    font-size: 1.2rem;
+}
+    
+=======
+.part-1{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.part-1 .imgD{
+    width: 100%;
+    hight: 400px;
+    background-size: cover;
+    background-position: center center ;
+}
+.part-1 .backgroundimg{
+    background-image: url(https://c.pxhere.com/photos/a0/97/yellow_background_pencil_designer_work-149186.jpg!d);
+}
+.part-1 .btn{
+    font-size: 7px;
+}
+.fixright{
+    right: 0;
+
+}
+
+.zide{
+    z-index: 11;
+}
+>>>>>>> e2fa24668d682427cfd4f45c0db73a850bf0efb7
+
+>>>>>>> f45d8f21726928c5924c399e7f606d4661acf7aa
